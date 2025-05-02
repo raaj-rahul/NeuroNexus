@@ -49,6 +49,7 @@ The form should work in all modern browsers including:
 - Edge
 
 ## Credits
+https://github.com/raaj-rahul/NeuroNexus
 
 Created as a demonstration of HTML/CSS form styling.
 
